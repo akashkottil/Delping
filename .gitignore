@@ -18,3 +18,14 @@ web-build/
 
 expo-env.d.ts
 # @end expo-cli
+
+# React Native
+ios/Pods/
+
+# Logs
+*.log
+
+# Build files
+*.gradle
+*.keystore
+*.lock
